@@ -13,16 +13,16 @@ A responsive ReactJS web application designed to help students prepare for the I
 
 1. **Clone the repository**  
 ```bash
-git clone <your-repo-url>
-cd <project-folder>
-
+git clone https://github.com/sobiya-22/ielts-reactjs.git
+cd ielts-reactjs
+```
 
 2. **Install dependencies**  
 ```bash
 npm install
-
+```
 
 ## Start the development server
 ```bash
 npm start
-
+```
